@@ -1,0 +1,107 @@
+Character Name:
+Class & Level :                Background:                Player Name:
+Race          :                Alignment :                EXP Points :
+
+-----------------------------------------------------------------------------------
+Ability Scores       Saving Throws            Abilities:
+
+Str   :             |x| Strength              | |Acrobatics     | |Medicine
+Dex   :             |X| Dexterity             | |Animal Handling| |Nature
+Con   :             | | Constitution          | |Arcana         | |Perception
+Int   :             | | Intelligence          | |Athletics      | |Performance
+Wis   :             | | Wisdom                | |Deception      | |Persuasion
+Cha   :             | | Charisma              | |History        | |Religion
+                                              | |Insight        | |Sleight of Hand
+Passive Wisdom:     | |                       | |Intimidation   | |Stealth
+(Perception)                                  | |Investigation  | |Survival
+
+Languages:                                    Other Proficiencies:
+
+
+
+
+----------------------------------------------------------------------------------
+
+Armor Class:                 Initiative:                Speed  :
+
+
+
+Max HP:                      Current HP:                Temp HP:
+
+
+Hit Dice                     Death Saves
+                             Successes: | |  | |  | |
+                             Failures   | |  | |  | |
+-----------------------------------------------------------------------------------
+Attack                        Attack Bonus               Damage Type
+Weapon:                         | |                      | |
+Weapon:                         | |                      | |
+Weapon:                         | |                      | |
+
+
+
+------------------------------------------------------------------------------------
+Spells:
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------
+Features/Traits
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------
+Money:
+CP
+SP
+EP
+GP
+PP
+---------------------------------------------------------------------------------------
+Equipment:       Weight         Description         Cost
+
+
+
+
+
+
+
+                                                    Total Cost:
+---------------------------------------------------------------------------------------
+Personality Traits
+
+
+
+
+Ideals
+
+
+
+
+Bonds
+
+
+
+Flaws
+
+
+
+---------------------------------------------------------------------------------------
+Physical Description:
+
+
+---------------------------------------------------------------------------------------
+Personality:
+
+
+
+
+Background:
