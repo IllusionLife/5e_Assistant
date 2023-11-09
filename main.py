@@ -1,4 +1,4 @@
-import main_menu as mm
+import menus as mm
 
 def run():
     return mm.main_menu()

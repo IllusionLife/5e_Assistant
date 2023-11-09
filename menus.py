@@ -1,5 +1,6 @@
 import util as utl
-import characters as chr
+import customs as cstm
+import characters as chrs
 
 
 def dummy():
@@ -11,10 +12,10 @@ def dummy():
 
 
 
-menu_items = {"1": ("Create character", "C", chr.create_character),
+menu_items = {"1": ("Create character", "C", chrs.create_character),
               "2": ("View characters", "V", dummy),
               "3": ("Delete character", "D", dummy),
-              "4": ("Add custom", "A", dummy),
+              "4": ("Add custom", "A", cstm.add_new_proficiency),
               "0": ("Exit", "E", dummy)}
 """
 Create a dictionary of a key (str) and a list. List must contain:
