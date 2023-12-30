@@ -1,2 +1,13 @@
-1. Add Initiative tracker
-2. Remove dummy func
+- Add Initiative tracker
+- Add option to change sources (proficiencies, races, etc.)
+- Add option to delete sources (proficiencies, races, etc.)
+    * How should we proceed if character or race uses said source?
+- Add exception handling
+- Check if comments are added where needed
+- Add classes creation
+- Add items creation
+- Add exit codes
+- Create a loop for the main menu
+- Optimise functions
+- Test for bugs
+- Remove dummy func

@@ -1,12 +1,12 @@
 Character Name:
-Class & Level :                Background:                Player Name:
-Race          :                Alignment :                EXP Points :
-
+Class         :                Level      :                EXP Points :
+Race          :                Alignment  :
+Background    :                Player Name:
 -----------------------------------------------------------------------------------
 Ability Scores       Saving Throws            Abilities:
 
-Str   :             |x| Strength              | |Acrobatics     | |Medicine
-Dex   :             |X| Dexterity             | |Animal Handling| |Nature
+Str   :             | | Strength              | |Acrobatics     | |Medicine
+Dex   :             | | Dexterity             | |Animal Handling| |Nature
 Con   :             | | Constitution          | |Arcana         | |Perception
 Int   :             | | Intelligence          | |Athletics      | |Performance
 Wis   :             | | Wisdom                | |Deception      | |Persuasion

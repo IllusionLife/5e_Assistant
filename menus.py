@@ -1,3 +1,4 @@
+import util
 import util as utl
 import customs as cstm
 import characters as chrs
@@ -11,20 +12,7 @@ def dummy():
     return
 
 
-
-menu_items = {"1": ("Create character", "C", chrs.create_character),
-              "2": ("View characters", "V", dummy),
-              "3": ("Delete character", "D", dummy),
-              "4": ("Add custom", "A", cstm.add_new_proficiency),
-              "0": ("Exit", "E", dummy)}
-"""
-Create a dictionary of a key (str) and a list. List must contain:
-  1. Title of functionality (str)
-  2. Access letter (can be left blank) (str)
-  3. Reference to function of the functionality (func)
-"""
-
-def get_menu_selection():
+def call_menu_selection(menu_items):
     # Initiate variables
     selection = None
     incorrect_selection = True
@@ -54,7 +42,42 @@ def get_menu_selection():
     menu_items[selection][2]()
 
 
+def add_custom_menu():
+    utl.clear()
+    call_menu_selection(custom_menu)
+
+
 def main_menu():
-    get_menu_selection()
+    call_menu_selection(main_menu_items)
 
     return 0
+
+
+main_menu_items = {
+    "1": ("Create character", "C", chrs.create_character),
+    "2": ("View characters", "V", dummy),
+    "3": ("Delete character", "D", dummy),
+    "4": ("Add custom", "A", add_custom_menu),
+    "5": ("Check list", "h", dummy),
+    "0": ("Exit", "E", dummy)
+}
+"""
+Main menu.
+Create a dictionary of a key (str) and a list. List must contain:
+  1. Title of functionality (str)
+  2. Access letter (can be left blank) (str)
+  3. Reference to function of the functionality (func)
+"""
+
+custom_menu = {
+    "1": ("Proficiency", "P", cstm.new_proficiency),
+    "2": ("Race", "R", cstm.new_race),
+    "0": ("Exit", "E", dummy)
+}
+"""
+Menu for customisations.
+Create a dictionary of a key (str) and a list. List must contain:
+  1. Title of functionality (str)
+  2. Access letter (can be left blank) (str)
+  3. Reference to function of the functionality (func)
+"""
