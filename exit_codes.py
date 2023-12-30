@@ -1,0 +1,3 @@
+# Exit codes
+EXIT_SUCCESS = 0
+EXIT_ALREADY_EXISTS = 151
