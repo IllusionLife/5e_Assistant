@@ -11,3 +11,5 @@
 - Optimise functions
 - Test for bugs
 - Remove dummy func
+- Make debug visible only if flag is provided
+- Add exception for Log level ???

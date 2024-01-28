@@ -1,0 +1,40 @@
+{
+  "proficiencies": [
+    {
+      "id": "animal_handling",
+      "name": "Animal Handling"
+    },
+    {
+      "id": "arcana",
+      "name": "Arcana"
+    },
+    {
+      "id": "heavy_armour",
+      "name": "Heavy Armour"
+    },
+    {
+      "id": "intimidation",
+      "name": "Intimidation"
+    },
+    {
+      "id": "medicine",
+      "name": "Medicine"
+    },
+    {
+      "id": "persuasion",
+      "name": "Persuasion"
+    },
+    {
+      "id": "sleigh_of_hand",
+      "name": "Sleigh of Hand"
+    },
+    {
+      "id": "stealth",
+      "name": "Stealth"
+    },
+    {
+      "id": "survival",
+      "name": "Survival"
+    }
+  ]
+}
