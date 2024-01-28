@@ -1,0 +1,9 @@
+Race name:
+Main race:
+Description:
+Age:
+Size:
+Speed:
+Languages:
+Ability Score Increase:
+Other Traits:

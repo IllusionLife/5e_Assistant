@@ -1,6 +1,7 @@
-from entity import Entity5E
+from Data.entity import EntityRPG
 
-class CharacterSheet(Entity5E):
+
+class CharacterSheet(EntityRPG):
     def __init__(self, entity_name, entity_type, entity_size):
         super().__init__(entity_name, entity_type, entity_size)
 
